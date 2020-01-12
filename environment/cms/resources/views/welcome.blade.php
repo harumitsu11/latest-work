@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel G`S Dev_14 Harumitsu Tsura
+                    Team Kosuge
                 </div>
 
                 <div class="links">
